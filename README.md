@@ -10,3 +10,13 @@ Create an application that uses Express.js on the back end by saving and retriev
 
 
 ### Usage
+
+clone from repo https://github.com/JB0341/express-note-taking
+
+Enter command 'npm install'
+
+Enter command 'node server.js'
+
+or...
+
+use the deployment link https://express-note-taking.onrender.com/
